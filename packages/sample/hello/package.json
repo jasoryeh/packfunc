@@ -4,6 +4,7 @@
     "dependencies": {
         "bcryptjs": "^2.4.3",
         "crypto": "^1.0.1",
+        "dof-common": "github:jasoryeh/digitalocean-functions-common",
         "mysql": "^2.18.1"
     }
-  }
+}
